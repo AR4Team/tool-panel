@@ -14,3 +14,5 @@ The third step
 
 Go to the following path and upload the file to phpmyadmin(sql/accounts.sql)
 <img src="https://a.top4top.io/p_1878nk9471.png" width="600" height="300">
+
+it worked well. Thank you Ahmed(@ahmedbinmoh) and Mazen(@mazenBinMurad) for the support, and I will see you later
