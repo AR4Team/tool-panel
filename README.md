@@ -7,7 +7,8 @@ Go to the path and edit the database information(authenticate.php)
 
 The second step
 
-You can add additional commands without the existing ones. You have to go to the following path and make the modification(js/script1.js)
+You can add additional commands without the existing ones. You have to go to the following path and make the modification
+(js/script1.js)
 <img src="https://j.top4top.io/p_18784ypw61.png" width="600" height="300">
 
 The third step
