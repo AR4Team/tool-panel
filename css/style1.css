@@ -1,0 +1,144 @@
+body{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	background: url(background.jpg)no-repeat;
+	background-size: cover;
+}
+
+.loader{
+	background: #111;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.loader div{
+	background: #fff;
+	width: 16px;
+	height: 32px;
+	margin-left: 10px;
+	animation: loader 1.2s infinite;
+}
+
+@keyframes loader{
+	50%{
+		height: 64px;
+	}
+}
+
+.loader div:nth-child(1){
+	background: #172a45;
+	animation-delay: -0.40s;
+}
+
+.loader div:nth-child(2){
+	background: #172a45;
+	animation-delay: -0.20s;
+}
+
+.loader div:nth-child(3){
+	background: #172a45;
+	animation-delay: 0s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* */
